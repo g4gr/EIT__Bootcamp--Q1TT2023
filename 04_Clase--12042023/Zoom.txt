@@ -1,0 +1,255 @@
+18:05:06 De  Adriano Nicolas Oyola Pernicci-906704  a  Todos:
+	Reacted to "Hola buenas tardes g..." with 🤘🏽
+18:06:28 De  Lautaro Squeo  a  Todos:
+	Buenass
+18:06:29 De  Guillermo Vicente-865210  a  Todos:
+	bien bien
+18:06:33 De  Ivan Castro Arca-908535  a  Todos:
+	buenas tardes
+18:06:36 De  Dario Arturo Ritacco-911811  a  Todos:
+	hola buenas!!
+18:06:38 De  Lautaro Squeo  a  Todos:
+	bien, con fiaca
+18:06:40 De  Stefano Viladevall  a  Todos:
+	Buenas
+18:06:41 De  Lautaro Squeo  a  Todos:
+	muy miercoles
+18:06:43 De  Andrea Del Pilar Chumbe Calderon  a  Todos:
+	hola buenas!
+18:06:51 De  marilina aramayo - 70463  a  Todos:
+	Buenas a todos!
+18:06:59 De  Valentina Martin Y Herrera-861044  a  Todos:
+	Buenas!!
+18:07:07 De  Adriano Nicolas Oyola Pernicci-906704  a  Todos:
+	El verano la pile!! Lo mejor
+18:07:07 De  Joaquin Enriquez Marin-908637  a  Todos:
+	el io es el mejor clima
+18:07:07 De  Aybí Yeilléen Yañez Ayala-903292  a  Todos:
+	Holaa!
+18:07:17 De  Stefano Viladevall  a  Todos:
+	fundamentalista de la primavera
+18:07:36 De  Lautaro Squeo  a  Todos:
+	lo unico que banco del frio es el mate cocido calentito
+18:07:37 De  Joaquin Enriquez Marin-908637  a  Todos:
+	nah pera el otoño es lindo che
+18:08:27 De  Joaquin Enriquez Marin-908637  a  Todos:
+	porque se acercan las vacaciones en primavera
+18:09:26 De  Javier Moiron-155613  a  Todos:
+	Buenas!
+18:11:40 De  Javier Moiron-155613  a  Todos:
+	si ese soy yo jajaja
+18:23:54 De  Joaquin Enriquez Marin-908637  a  Todos:
+	entonces sirve para que la web se adapte a las diferentes pantallas de los clientes?
+18:30:10 De  Lucila Pesaro-632447  a  Todos:
+	=)
+18:30:18 De  Lucila Pesaro-632447  a  Todos:
+	Y de icq
+18:37:57 De  Joaquin Enriquez Marin-908637  a  Todos:
+	las palabras claves tienen que ir entre <> ?
+18:43:30 De  Angel Lopez  a  Todos:
+	Hola! No me quedo claro la diferencia entre el description y el keyword del meta
+18:47:48 De  Valentina Martin Y Herrera-861044  a  Todos:
+	decription seria una descripción breve con información clave y keywords, palabras claves sueltas
+18:50:02 De  Joaquin Enriquez Marin-908637  a  Todos:
+	Ahh okay y hay algún numero mágico de caracteres para que no sean ni muchos ni pocos
+18:50:03 De  Angel Lopez  a  Todos:
+	Listoo entendido, gracias
+18:50:11 De  Facundo Diaz-905219  a  Todos:
+	Conviene usar solo description entonces o usamos los 2?
+18:51:54 De  Lautaro Squeo  a  Todos:
+	sisi
+18:52:18 De  Lautaro Squeo  a  Todos:
+	seria como el style dentro de un elemento?
+19:01:08 De  Guillermo Vicente-865210  a  Todos:
+	luego entonces habría que hacer tres archivos css?
+19:01:22 De  Guillermo Vicente-865210  a  Todos:
+	una para cada opción
+19:06:09 De  Julian Martin Taraborrelli-182884  a  Todos:
+	comor era el atajo del cmd line?
+19:06:41 De  Lucila Pesaro-632447  a  Todos:
+	Del command line
+19:06:45 De  Javier Moiron-155613  a  Todos:
+	para crear el archivo me parece
+19:06:47 De  Lucila Pesaro-632447  a  Todos:
+	De la terminal
+19:06:48 De  Julian Martin Taraborrelli-182884  a  Todos:
+	eso
+19:06:49 De  Lucila Pesaro-632447  a  Todos:
+	Digo, no se
+19:08:35 De  Valentina Martin Y Herrera-861044  a  Todos:
+	profe una pregunta.. el estilo que elijamos para la pagina por ahora va a ser único?
+19:08:47 De  Valentina Martin Y Herrera-861044  a  Todos:
+	o deberíamos poner las 3 opciones
+19:09:25 De  Julian Martin Taraborrelli-182884  a  Todos:
+	gracias!!
+19:11:05 De  Guillermo Vicente-865210  a  Todos:
+	Gaby, los archivos css están dentro de la carpeta styles? y son tres, dark.css, light.css y style.css?
+19:17:21 De  Guillermo Vicente-865210  a  Todos:
+	gaby por qué puede ser no funcioen el touch?
+19:17:33 De  Guillermo Vicente-865210  a  Todos:
+	ni en cmd ni en powershell
+19:17:44 De  Lucila Pesaro-632447  a  Todos:
+	A mi no mereconoce el comando tree
+19:17:56 De  Lucila Pesaro-632447  a  Todos:
+	Tenes q instalar algo para q ande?
+19:17:59 De  Guillermo Vicente-865210  a  Todos:
+	luego quería pedirte si se puede ver desde vsc, la organización.... y gracias! voy codeando y por ahí se me pierde algo...
+19:18:04 De  Joaquin Enriquez Marin-908637  a  Todos:
+	y lo del src pasa al publico una vez terminado?
+19:18:07 De  Guillermo Vicente-865210  a  Todos:
+	si estoy con Windows
+19:18:09 De  Guillermo Vicente-865210  a  Todos:
+	gracias
+19:18:57 De  Javier Moiron-155613  a  Todos:
+	si tmb estoy con Windows y cambia el orden
+19:19:22 De  Guillermo Vicente-865210  a  Todos:
+	claro un golazo poder codear desde consola
+19:19:29 De  Guillermo Vicente-865210  a  Todos:
+	quiero! jaja
+19:19:44 De  Javier Moiron-155613  a  Todos:
+	el index queda de Public?
+19:19:57 De  Javier Moiron-155613  a  Todos:
+	bien
+19:21:02 De  Lucila Pesaro-632447  a  Todos:
+	Hay que instalar algo para correr tree
+19:21:14 De  Lucila Pesaro-632447  a  Todos:
+	Brew install tree
+19:21:15 De  Lucila Pesaro-632447  a  Todos:
+	?
+19:21:17 De  Lucila Pesaro-632447  a  Todos:
+	oki
+19:21:38 De  Lucila Pesaro-632447  a  Todos:
+	tenkiu
+19:24:45 De  Lautaro Squeo  a  Todos:
+	sisi
+19:25:10 De  Julian Martin Taraborrelli-182884  a  Todos:
+	Gaby, una consulta
+19:27:15 De  Facundo Diaz-905219  a  Todos:
+	No le puede servir la extension de Live Server Preview en Vscode? asi ve en tiempo real lo que hace
+19:27:46 De  Javier Moiron-155613  a  Todos:
+	ah si, esa la instale
+19:28:14 De  Lucila Pesaro-632447  a  Todos:
+	Five server re anda
+19:28:16 De  Lucila Pesaro-632447  a  Todos:
+	RE
+19:28:18 De  Lucila Pesaro-632447  a  Todos:
+	Yo lo uso
+19:28:26 De  Lucila Pesaro-632447  a  Todos:
+	Es como mas configurable
+19:28:33 De  Lucila Pesaro-632447  a  Todos:
+	A mi se me rompía todo el tiempo live server
+19:28:42 De  Julian Martin Taraborrelli-182884  a  Todos:
+	Buenisimo! Ahí ya la instale!
+	Gracias!!
+19:30:26 De  Julian Martin Taraborrelli-182884  a  Todos:
+	Me funcionco con CTRL + click
+19:30:30 De  Julian Martin Taraborrelli-182884  a  Todos:
+	en w11
+19:30:41 De  Ezequiel Correa  a  Todos:
+	gracias!
+19:30:42 De  Julian Martin Taraborrelli-182884  a  Todos:
+	jajaja
+19:30:48 De  Julian Martin Taraborrelli-182884  a  Todos:
+	Reacted to "gracias!" with 👍
+19:38:33 De  [Instructor] Gaby Gonzalez Romero  a  Todos:
+	Fav Icon : https://favicon.io/
+19:44:43 De  Joaquin Enriquez Marin-908637  a  Todos:
+	porque repeis muchs veces el mismo link ???
+19:47:53 De  Joaquin Enriquez Marin-908637  a  Todos:
+	entonces el motor del navegador detecta el dispositivo y en base a eso pone un favicon o otro?
+19:49:44 De  Lautaro Squeo  a  Todos:
+	muy bueno
+19:49:44 De  Jesus Castillejo-659242  a  Todos:
+	👍🏻
+19:57:13 De  Joaquin Enriquez Marin-908637  a  Todos:
+	entonces es mejor ir de abajo a arriba o no?
+19:57:32 De  Guillermo Vicente-865210  a  Todos:
+	jaja
+20:00:17 De  Joaquin Enriquez Marin-908637  a  Todos:
+	ese para que es el async
+20:00:33 De  Joaquin Enriquez Marin-908637  a  Todos:
+	a el default
+20:02:15 De  Guillermo Vicente-865210  a  Todos:
+	yo quería saber si también se puede dar que algunos scripts vayan arriba y otros abajo?
+20:03:02 De  Guillermo Vicente-865210  a  Todos:
+	y de hoy me quedó como cambiar de opciones si quiero ver modo dark, o light, cómo sería ese cambio de opciones? intenté probar acá y no me estaría sucediendo... por lo demás, todo súper
+20:03:37 De  Joaquin Enriquez Marin-908637  a  Todos:
+	eso es según como tenes configurado tu navegador
+20:04:00 De  Guillermo Vicente-865210  a  Todos:
+	genial, claro; gracias!
+20:04:06 De  Joaquin Enriquez Marin-908637  a  Todos:
+	si esta en dark va a tomar el style_dark por ejemplo
+20:05:10 De  Joaquin Enriquez Marin-908637  a  Todos:
+	si en brave tambien
+20:06:14 De  Guillermo Vicente-865210  a  Todos:
+	gracias Gaby!!!
+20:06:42 De  Joaquin Enriquez Marin-908637  a  Todos:
+	para el viernes hacemos el modulo 3?
+20:06:51 De  Joaquin Enriquez Marin-908637  a  Todos:
+	ah listo tranqui
+20:07:01 De  Federico Ramón Palacio Gomez-67385  a  Todos:
+	Reacted to "para el viernes hace..." with 😯
+20:07:08 De  Guillermo Vicente-865210  a  Todos:
+	paso a paso! jaja
+20:07:17 De  Federico Ramón Palacio Gomez-67385  a  Todos:
+	Reacted to "paso a paso! jaja" with 😂
+20:07:22 De  Joaquin Enriquez Marin-908637  a  Todos:
+	como dice el filoso merlo
+20:07:24 De  Ezequiel Correa  a  Todos:
+	gracias
+20:09:25 De  Javier Moiron-155613  a  Todos:
+	Te quería pedir cuando puedas el código cuando puedas
+20:09:28 De  Julian Martin Taraborrelli-182884  a  Todos:
+	Nos vemos!! Saludos!! 😃
+20:09:32 De  Joaquin Enriquez Marin-908637  a  Todos:
+	buenas noches a todos
+20:09:37 De  Adriano Nicolas Oyola Pernicci-906704  a  Todos:
+	Nos vemos!!
+20:09:38 De  Javier Moiron-155613  a  Todos:
+	si si
+20:09:41 De  Guillermo Vicente-865210  a  Todos:
+	nos vemos, gracias!!!!
+20:09:43 De  Ezequiel Correa  a  Todos:
+	buenas nochesss
+20:09:44 De  Ivan Castro Arca-908535  a  Todos:
+	nos vemos!!
+20:09:46 De  Carlos Zain-708354  a  Todos:
+	buenas noches!
+20:09:47 De  Aybí Yeilléen Yañez Ayala-903292  a  Todos:
+	Nos vemos!
+20:09:47 De  Gabriel Noriega-904325  a  Todos:
+	chau
+20:09:47 De  Facundo Diaz-905219  a  Todos:
+	Nos vemos!
+20:09:48 De  Dario Arturo Ritacco-911811  a  Todos:
+	muchas gracias! nos vemos el viernes!
+20:09:49 De  Santiago Hryb-428620  a  Todos:
+	Nos vemos
+20:09:52 De  Jesus Castillejo-659242  a  Todos:
+	muchas gracias! buenas noches!
+20:10:01 De  Angel Lopez  a  Todos:
+	Chao! Gracias por la clase
+20:10:03 De  marilina aramayo - 70463  a  Todos:
+	Adios!
+20:10:42 De  Javier Moiron-155613  a  Todos:
+	te venia sigueindo bien y me perdi en un momento
+20:11:02 De  Javier Moiron-155613  a  Todos:
+	bastante
+20:11:12 De  Javier Moiron-155613  a  Todos:
+	mira que dentro de todo soy rápido escribiendo
+20:11:20 De  Javier Moiron-155613  a  Todos:
+	pero no me quedan los comandos
+20:11:36 De  Javier Moiron-155613  a  Todos:
+	si en el trabajo si tengo 2, pero en casa no
+20:12:43 De  Javier Moiron-155613  a  Todos:
+	no, nunca lo use y nunca programe
+20:12:55 De  Javier Moiron-155613  a  Todos:
+	mi palo es lo técnico / fierros
+20:13:52 De  [Instructor] Gaby Gonzalez Romero  a  Todos:
+	https://gist.github.com/gagr-dev/7aca9ea84aa271e34dbb07a7e9624bf4
+20:15:38 De  Javier Moiron-155613  a  Todos:
+	listo
+20:15:40 De  Javier Moiron-155613  a  Todos:
+	copiado
+20:15:52 De  Javier Moiron-155613  a  Todos:
+	nos vemos y gracias nuevamente
