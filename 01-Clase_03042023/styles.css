@@ -1,0 +1,52 @@
+@charset 'UTF-8' ;
+
+/* Comienzo HTML */
+html {
+  font-size: 18px ;
+  /* font-family: 'Open-Dyslexic', serif ; */
+  /* font-family: 'Roboto', sans-serif ; */
+  line-height: 1.5 ;
+}
+
+/* Selector Universal */
+* {
+  padding: 0 ;
+  margin: 0 ;
+}
+
+/* Comienzo Body */
+.Body {
+  min-width: 1400px;
+}
+
+/* Comienzo Header */
+.Header {
+  width: 100vw ;
+  height: 15vh ;
+}
+
+.Header .section {}
+
+.Header .section .article {}
+
+/* Comienzo Aside */
+.Aside {
+  width: 15vw ;
+  height: 75vh ;
+}
+
+/* Comienzo Main */
+.Main {
+  width: 70vw ;
+  height: 75vh ;
+}
+
+.Main .section {}
+
+.Main .section .article {}
+
+/* Comienzo Footer */
+.Footer {
+  height: 100vw ;
+  height: 10vh ;
+}

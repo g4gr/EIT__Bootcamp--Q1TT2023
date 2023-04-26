@@ -1,0 +1,65 @@
+@charset 'UTF-8' ;
+
+/* px rem em in cm % vw vh ch fr
+ * Unidades Absolutas : 100px
+ * Unidades Relativas : 50% : 50px  
+ * 
+ * */
+
+html {
+  font-size : 17px ;
+  line-height : 1.5 ; 
+}
+
+* {
+  margin : 0 ;
+  padding : 0 ;
+}
+
+body {
+  max-width: 1400px ;
+  min-width : 360px ;
+}
+
+header {}
+
+/* Inicio Header */
+
+.header {}
+
+.header .section {
+  height : 4rem ;
+  width : 100px ;
+
+  border : 2px solid blue ;
+
+
+}
+
+.header .section .article { font-size : 14px }
+
+.header .section .article .header h1 {
+  font-size : 4rem ; 60px
+  
+
+}
+
+
+
+/* Inicio Aside */
+.aside {}
+
+
+/* Inicio Main */
+.main {
+  border-radius : 1rem ;
+  border : .25rem solid blue ;
+
+}
+
+
+/* Inicio Footer */
+.footer {
+  margin : 1rem 12px ;
+
+}
