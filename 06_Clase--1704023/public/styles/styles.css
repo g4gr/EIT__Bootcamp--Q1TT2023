@@ -1,0 +1,33 @@
+@charset 'UFT-8' ;
+
+html {
+    font-size: 18px ; 
+    line-height: 1.5 ;
+/*    font-family: 'Open-Dyslexic', sans-serif ; */
+    font-family: 'Roboto' , sans-serif ;
+
+}
+
+* {
+    padding: 0 ;
+    margin: 0 ;
+
+}
+
+button {
+    all : unset ;
+}
+
+.Header {
+    font-weight: 400 ;
+}
+
+.Main {
+    font-weight: 700 ;
+
+}
+
+img {
+    scale : 2 ;
+    padding : 50px 10px ;
+}
