@@ -1,0 +1,37 @@
+1. ** Cómo deberías subir los archivos a Google Drive? **
+
+  - La carpeta que vas a subir a Google Drive debe estar comprimida en un solo archivos .ZIP
+  - En el caso de que no sepas como, consultanos!
+
+---
+2. ** Cómo nombramos la carpeta que se va a subir a Google Drive? **
+
+- Siglas Bootcamp = "BC_"
+- Desafio + Número = "Desafio[ XX ]_"
+- Nombre y apellido = "[ Nombre ]-[ Apellido ]"
+
+  Ejemplo :
+
+    "BC_Desafio01_Gabriel-Gonzalez"
+
+---
+3. ** Cuanto tiempo tengo para entregar el proyecto? **
+
+  - La consigna fue detalla en la clase del día Miércoles 19 de Abril. A partir de esa fecha, tenes 7 días para hacer la entrega.
+  - El plazo máximo de entrega es el día : Miércoles 26 de Abril a las 20 hs.
+  - En el caso de que te excedas de esa fecha, por favor avisale a nuestra tutora del curso por Discord : @MelinaTevez.
+
+---
+4. ** Criterios de evaluación **
+
+  A. Fecha de entrega.
+  B. Prolijidad y legibilidad del código (que este ordenado!).
+  C. Uso variado y correcto de las etiquetas HTML en el desafio.
+  D. Llevar correctamente la referencia (consigna) al código, incluido el contenido de `<head>...</head>`.
+
+---
+5. ** Recorda **
+
+  - El archivo `HTML` debe llamarse `index.html`.
+  - No es necesario que sea diseño adaptativo.
+  - El objetivo del desafio es conocer cuando aprendiste de HTML, por eso es importante que tu foco este en eso. No utilices CSS.
