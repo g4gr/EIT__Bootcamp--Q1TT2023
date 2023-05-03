@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>EduIT - Clase 7</title>
+
+  <link rel="stylesheet" href="./styles/styles.css" />
+</head>
+
+<body>
+  <header class="Header">
+    <section class="section">
+      <nav class="navbar">
+        <figure>
+          <!-- Icono SVG-->
+          <img width="36px" height="36px" loading="eager" alt="Texto alternativo" src="./icons/i_linkedin.svg" />
+          <!-- Icono SVG con Base64 -->
+          <img width="36px" height="36px"
+            src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iMzZweCIgaGVpZ2h0PSIzNnB4IiB2aWV3Qm94PSIwIDAgMzIgMzIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogICAgPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4IiByeD0iMTQiIGZpbGw9IiMxMjc1QjEiIC8+DQogICAgPHBhdGggDQogICAgICAgIGQ9Ik0xMi42MTg2IDkuNjkyMTVDMTIuNjE4NiAxMC42MjY3IDExLjgwODUgMTEuMzg0MyAxMC44MDkzIDExLjM4NDNDOS44MTAwNCAxMS4zODQzIDkgMTAuNjI2NyA5IDkuNjkyMTVDOSA4Ljc1NzYgOS44MTAwNCA4IDEwLjgwOTMgOEMxMS44MDg1IDggMTIuNjE4NiA4Ljc1NzYgMTIuNjE4NiA5LjY5MjE1WiINCiAgICAgICAgZmlsbD0id2hpdGUiDQogICAgLz4NCiAgICA8cGF0aA0KICAgICAgICBkPSJNOS4yNDc0MiAxMi42MjgxSDEyLjM0MDJWMjJIOS4yNDc0MlYxMi42MjgxWiIgDQogICAgICAgIGZpbGw9IndoaXRlIg0KICAgIC8+DQogICAgPHBhdGggDQogICAgICAgIGQ9Ik0xNy4zMTk2IDEyLjYyODFIMTQuMjI2OFYyMkgxNy4zMTk2QzE3LjMxOTYgMjIgMTcuMzE5NiAxOS4wNDk2IDE3LjMxOTYgMTcuMjA0OUMxNy4zMTk2IDE2LjA5NzYgMTcuNjk3NyAxNC45ODU1IDE5LjIwNjIgMTQuOTg1NUMyMC45MTEgMTQuOTg1NSAyMC45MDA4IDE2LjQzNDUgMjAuODkyOCAxNy41NTcxQzIwLjg4MjQgMTkuMDI0NCAyMC45MDcyIDIwLjUyMTkgMjAuOTA3MiAyMkgyNFYxNy4wNTM3QzIzLjk3MzggMTMuODk1NCAyMy4xNTA4IDEyLjQ0MDEgMjAuNDQzMyAxMi40NDAxQzE4LjgzNTQgMTIuNDQwMSAxNy44Mzg3IDEzLjE3MDEgMTcuMzE5NiAxMy44MzA1VjEyLjYyODFaIg0KICAgICAgICBmaWxsPSJ3aGl0ZSINCiAgICAvPg0KPC9zdmc+"
+            alt="Icono de Linkedin" />
+        </figure>
+        <menu>
+          <li></li>
+        </menu>
+        <button>
+          <figure>
+            <img width="" height="" src="" alt="" />
+          </figure>
+          <span>Log In</span>
+        </button>
+      </nav>
+    </section>
+  </header>
+  <aside class="Aside">
+    <h2>Tipos de im&aacute;genes</h2>
+    <ul>
+      <li>RAW</li> 500Mb
+      <li>JPG / JPEG</li> 150 - 2 MB
+      <li>PNG</li> > 1 Mb
+      <li>SVG</li>
+      <li>WEBP / AVIFF</li> 200K
+    </ul>
+  </aside>
+  <main class="Main">
+    <section class="section">
+      <article class="article">
+        <header class="header">Im&aacute;genes</header>
+        <main class="main">
+          <picture> <!-- Imagen 1 -->
+            <!-- windows.devicePixelRatio -->
+            <source type="image/jpg" media="( max-width : 700px )" srcset="./images/image1--small.jpg" />
+            <source type="image/jpg" media="( max-width : 900px )" srcset="./images/image1--medium.jpg" />
+            <source type="image/jpg" media="( max-width : 1400px )" srcset="./images/image1--large.jpg" />
+            <img
+              loading="lazy"
+              alt="Atardecer en la sierras de Cordoba"
+              src="./images/image1.jpg"
+              srcset="
+                ./images/image1--large.jpg , 
+                ./images/image1--medium.jpg ,
+                ./images/image1--small.jpg " 
+            />
+          </picture>
+          <picture> <!-- Imagen 2-->
+              <source type="image/jpg" media="( max-width : 700px )" srcset="./images/image2--small.jpg" />
+              <source type="image/jpg" media="( max-width : 900px )" srcset="./images/image2--medium.jpg" />
+              <source type="image/jpg" media="( max-width : 1400px )" srcset="./images/image2--large.jpg" />
+              <img
+                  loading="lazy"
+                  alt="Atardecer en la sierras de Cordoba"
+                  src="./images/image2.jpg"
+                  srcset="
+                  ./images/image2--large.jpg , 
+                  ./images/image2--medium.jpg ,
+                  ./images/image2--small.jpg " 
+              />
+          </picture>
+          <picture> <!-- Imagen 3 -->
+              <source type="image/jpg" media="( max-width : 700px )" srcset="./images/image3--small.jpg" />
+              <source type="image/jpg" media="( max-width : 900px )" srcset="./images/image3--medium.jpg" />
+              <source type="image/jpg" media="( max-width : 1400px )" srcset="./images/image3--large.jpg" />
+              <img
+                  loading="lazy"
+                  alt="Atardecer en la sierras de Cordoba"
+                  src="./images/image3.jpg"
+                  srcset="
+                  ./images/image3--large.jpg , 
+                  ./images/image3--medium.jpg ,
+                  ./images/image3--small.jpg " 
+                  />
+          </picture>
+
+        </main>
+        <footer class="footer"></footer>
+      </article>
+    </section>
+  </main>
+  <footer class="Footer">
+    <section class="section">
+      <article class="article"></article>
+    </section>
+  </footer>
+
+</body>
+
+</html>

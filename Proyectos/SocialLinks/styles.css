@@ -1,0 +1,42 @@
+@charset 'UTF-8' ;
+
+html {
+    font-size: 18px ;
+    font-weight: 400 ;
+    line-height: 1.5 ;
+
+    box-sizing: border-box ;
+}
+
+* {
+    margin: 0 ;
+    padding : 0 ;
+}
+
+/* Comienzo Header */
+.Header {}
+
+.Header .section {}
+
+.Header .section .article {}
+
+/* Comienzo Aside */
+.Aside {}
+
+.Aside .section {}
+
+.Aside .section .article {}
+
+/* Comienzo Main */
+.Main {}
+
+.Main .section {}
+
+.Main .section .article {}
+
+/* Comienzo Footer */
+.Footer {}
+
+.Footer .section {}
+
+.Footer .section .article {}
