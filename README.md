@@ -126,3 +126,34 @@
  - [ ] Flexbox.
  - [ ] Reforzar el tema de la entrega del Desafio #1.
  - [ ] Para la proxima clase:
+
+
+---
+### Clase 11 - 28/04/2023 de 18:00 a 20:00 hs. (Bs. As.)
+ - [ ] Check list de la clase.
+ - [ ] Check list de la tarea de la clase anterior.
+
+
+---
+### Clase 12 - 04/05/2023 de 18:00 a 20:00 hs. (Bs. As.)
+ - [X] Check list de la clase.
+ - [X] Check list de la tarea de la clase anterior.
+ - [X] Consultas : microfono abierto.
+ - [X] Introduccion a Git.
+ - [X] Para la próxima clase:
+    - Instalar Git localmente.
+    - Abrir una cuenta en GitHub.
+    - { Optativo } Adquirir el beneficio del GitHub Student Pack provisto por EduIT.
+    - Configurar : `user.name` y `user.email` (recorda usar el alias que provee GitHub. Settings > Email > Keep... ).
+
+---
+### Clase 13 - 06/05/2023 de 18:00 a 20:00 hs. (Bs. As.)
+ - [ ] Check list de la clase anterior.
+ - [ ] Repaso de Git ( Excalidraw ).
+ - [ ] Instalar GitHub CLI.
+    - Creacion de un repositorio desde local a remoto.
+    - Creacion de un repositorio desde remoto a local.
+ - [ ] Configurar editor de texto de codigo preferido en Git.
+ - [ ] Estrategias de commits.
+ - [ ] Estructura de un buen commits.
+ - [ ] Templates.
