@@ -2,3 +2,5 @@ Este es el archivo que contiene todas las conversaciones de la clase.
 
 Todo bien por este lado!
 Les alumnes son unos genies !
+
+La gente de esta comision esta muy motivada con el uso de Git !
