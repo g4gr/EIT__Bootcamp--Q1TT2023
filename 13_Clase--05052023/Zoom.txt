@@ -4,3 +4,5 @@ Todo bien por este lado!
 Les alumnes son unos genies !
 
 La gente de esta comision esta muy motivada con el uso de Git !
+
+Gente hoy tienen a disposicion el desafio #4
