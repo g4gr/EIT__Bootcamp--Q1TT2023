@@ -150,6 +150,8 @@
 ### Clase 13 - 06/05/2023 de 18:00 a 20:00 hs. (Bs. As.)
  - [ ] Check list de la clase anterior.
  - [ ] Repaso de Git ( Excalidraw ).
+ - [ ] Desafio 2 - Recordar terminar.
+ - [ ] Desafio 3 - Ver post en Discord de Meli. Fecha de entrega 12/05/2023 20:00 hs.
  - [ ] Instalar GitHub CLI.
     - Creacion de un repositorio desde local a remoto.
     - Creacion de un repositorio desde remoto a local.
