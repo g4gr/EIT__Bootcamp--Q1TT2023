@@ -1,0 +1,8 @@
+@use 'h-fonts' as F ;
+
+html {
+    font-size :     F.$fontSize ;
+    font-weight :   F.$fontWeight ;
+    line-height :   F.$lineHeight ;
+}
+

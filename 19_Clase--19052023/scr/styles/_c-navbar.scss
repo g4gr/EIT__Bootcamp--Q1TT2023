@@ -1,0 +1,22 @@
+@use './h-fonts' as F ;
+@use './h-colors' as C ;
+
+
+.navbar {
+    width :     90%;
+    height :    15vh ;
+
+    display :flex ;
+    flex-flow: row;
+    justify-content: space-around ;
+    align-items: center ;
+
+    & .logo {}
+    & .menu {}
+    & .cta {
+        display: inline-flex ;
+
+        & .link {}
+
+    }
+}

@@ -1,0 +1,14 @@
+@use './h-colors' as C ;
+
+.Header {
+    color : C.$c-yellow500 ;
+
+    & .section {
+
+        & .article {
+
+            @import './c-navbar' ;
+        }
+
+    }
+}

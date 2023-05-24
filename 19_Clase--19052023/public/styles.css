@@ -1,0 +1,45 @@
+html {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.Header {
+  color: #e9d8a6;
+}
+.Header .section .article .navbar {
+  width: 90%;
+  height: 15vh;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.Header .section .article .navbar .cta {
+  display: inline-flex;
+}
+/* Comienzo del Aside */
+.Aside {
+  color: blue;
+}
+
+.Main {
+  color: green;
+}
+
+.Footer {
+  color: red;
+}
+.Footer .navbar {
+  width: 90%;
+  height: 15vh;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.Footer .navbar .cta {
+  display: inline-flex;
+}
+
+/*# sourceMappingURL=styles.css.map */
