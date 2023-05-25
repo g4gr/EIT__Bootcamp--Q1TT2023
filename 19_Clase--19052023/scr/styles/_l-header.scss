@@ -1,7 +1,12 @@
 @use './h-colors' as C ;
 
 .Header {
-    color : C.$c-yellow500 ;
+  grid-row-start : 1 ;
+  grid-row-end : 2 ;
+  grid-column-start : 2 ;
+  grid-column-end : 12 ;
+
+  background-color : C.$c-yellow500 ;
 
     & .section {
 
@@ -12,3 +17,4 @@
 
     }
 }
+

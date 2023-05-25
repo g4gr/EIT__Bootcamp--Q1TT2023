@@ -1,7 +1,11 @@
 /* Comienzo del Aside */
 
 .Aside {
-    color : blue ;
+  grid-row : 2 / 3 ;
+  grid-column : 1 / 4 ;
+
+  background-color : blue ;
 }
+
 
 // Final Aside
