@@ -23,10 +23,8 @@ html {
   }
 }
 .Header {
-  grid-row-start: 1;
-  grid-row-end: 2;
-  grid-column-start: 2;
-  grid-column-end: 12;
+  grid-row: 1/2;
+  grid-column: 2/12;
   background-color: #e9d8a6;
 }
 .Header .section .article .navbar {
