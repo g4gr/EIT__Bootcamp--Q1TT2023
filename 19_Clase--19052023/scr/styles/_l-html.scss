@@ -1,8 +1,35 @@
 @use 'h-fonts' as F ;
+@use './_h-breakPoint.scss' as BP ;
+
+// ----
 
 html {
     font-size :     F.$fontSize ;
     font-weight :   F.$fontWeight ;
     line-height :   F.$lineHeight ;
+
 }
 
+.Body {
+  display : grid ;
+  grid-template-rows : 15vh 65vh 10vh ;
+  grid-template-columns : repeat( 12 , 1fr ) ;
+}
+
+@media screen and ( max-width : BP.$breakPoint--lg ) {
+  .Body {
+    grid-template-columns : repeat( 8 , 1fr ) ;
+
+    background-color : aquamarine ;
+  }
+
+}
+
+@media screen and ( max-width : 700px ) {
+  .Body {
+    grid-template-columns : repeat( 4 , 1fr ) ;
+
+    background-color : purple ;
+  }
+
+}

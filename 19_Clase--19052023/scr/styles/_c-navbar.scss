@@ -1,15 +1,13 @@
 @use './h-fonts' as F ;
 @use './h-colors' as C ;
+@use './mixin.scss' as M ;
 
 
 .navbar {
     width :     90%;
     height :    15vh ;
 
-    display :flex ;
-    flex-flow: row;
-    justify-content: space-around ;
-    align-items: center ;
+    @include M.Display( flex , row nowrap , space-around , center , 1rem ) ;
 
     & .logo {}
     & .menu {}

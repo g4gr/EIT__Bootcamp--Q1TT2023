@@ -4,39 +4,67 @@ html {
   line-height: 1.5;
 }
 
+.Body {
+  display: grid;
+  grid-template-rows: 15vh 65vh 10vh;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+@media screen and (max-width: 950px) {
+  .Body {
+    grid-template-columns: repeat(8, 1fr);
+    background-color: aquamarine;
+  }
+}
+@media screen and (max-width: 700px) {
+  .Body {
+    grid-template-columns: repeat(4, 1fr);
+    background-color: purple;
+  }
+}
 .Header {
-  color: #e9d8a6;
+  grid-row: 1/2;
+  grid-column: 2/12;
+  background-color: #e9d8a6;
 }
 .Header .section .article .navbar {
   width: 90%;
   height: 15vh;
   display: flex;
-  flex-flow: row;
+  flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center;
+  gap: 1rem;
 }
 .Header .section .article .navbar .cta {
   display: inline-flex;
 }
 /* Comienzo del Aside */
 .Aside {
-  color: blue;
+  grid-row: 2/3;
+  grid-column: 1/4;
+  background-color: blue;
 }
 
 .Main {
-  color: green;
+  grid-row: 2/3;
+  grid-column: 4/13;
+  background-color: green;
 }
 
 .Footer {
-  color: red;
+  grid-row: 3/4;
+  grid-column: 1/13;
+  background-color: red;
 }
 .Footer .navbar {
   width: 90%;
   height: 15vh;
   display: flex;
-  flex-flow: row;
+  flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center;
+  gap: 1rem;
 }
 .Footer .navbar .cta {
   display: inline-flex;

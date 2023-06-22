@@ -1,5 +1,8 @@
 .Footer {
-    color : red ;
+  grid-row : 3 / 4 ;
+  grid-column : 1 / 13 ;
+
+  background-color : red ;
 
     @import './c-navbar' ;
 }
