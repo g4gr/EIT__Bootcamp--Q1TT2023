@@ -1,0 +1,6 @@
+Segun lo votado, vamos a realizar el siguiente proyecto de FrontEnd Mentor
+
+https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
+
+- Tarea Gaby : HTML + CSS
+- En clase : JS
