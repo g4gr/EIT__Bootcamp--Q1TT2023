@@ -1,0 +1,14 @@
+{
+    "name": "44_clase--21072023",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "pug": "pug -w src/index.pug -o public/index.html",
+        "sass": "sass --watch src/styles.sass:public/styles.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
